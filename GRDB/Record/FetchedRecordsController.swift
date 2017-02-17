@@ -1,7 +1,7 @@
 #if os(iOS)
     import UIKit
 #endif
-
+import Foundation
 /// You use FetchedRecordsController to track changes in the results of an
 /// SQLite request.
 ///

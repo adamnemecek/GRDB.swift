@@ -1,3 +1,4 @@
+import Foundation
 #if !USING_BUILTIN_SQLITE
     #if os(OSX)
         import SQLiteMacOSX
