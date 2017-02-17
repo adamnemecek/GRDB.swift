@@ -5,5 +5,5 @@ import PackageDescription
      dependencies: [
          .Package(url: "https://github.com/zmeyc/SQLiteMacOSX.git", majorVersion: 0)
      ],
-     exclude: ["GRDB.xcworkspace", "Playgrounds", "SQLCipher", "SQLiteCustom", "Support", "DemoApps", "Tests"]
+     exclude: ["GRDB.xcworkspace", "Documentation", "Playgrounds", "SQLCipher", "SQLiteCustom", "Support", "DemoApps", "Tests"]
  )
